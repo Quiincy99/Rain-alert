@@ -1,6 +1,3 @@
-from email import message
-from http import client
-from urllib import response
 import requests
 from twilio.rest import Client
 import os
